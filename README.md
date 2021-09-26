@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kappaladi&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/570699104804667393.png"/>
+  <img src="https://discord.c99.nl/widget/theme-2/570699104804667393.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript
