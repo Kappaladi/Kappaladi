@@ -14,5 +14,5 @@ Currently learning JavaScript
 <p align="center">
     <a href="https://discord.gg/mVdMmsWmUn">Discord Server</a>
 <p align="center">  
-<img src="https://tenor.com/UsDH.gif">
+<img src="https://tenor.com/view/shiny-pokemon-haunter-gif-11034111">
 </p>
