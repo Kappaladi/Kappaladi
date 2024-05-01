@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://media.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif">
 </p>
 <p align="center">
     Beast
